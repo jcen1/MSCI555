@@ -9,6 +9,8 @@ import os
 import time
 #-----------------------------input-------------------------
 dirname = os.path.dirname(__file__) +'/'  
+
+# NOTE: Change 's' to match file name of test instance
 s= 'FRIDAY_COACHELLA'
 data = pd.read_csv("{}.csv".format(dirname+s))
 jobs = data.iloc[:,0:1]
