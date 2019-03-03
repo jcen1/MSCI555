@@ -46,14 +46,15 @@ try:
     m.addConstr(quicksum(b[j] for j in range(interval)) >= 1, "c2" )
 
     m.optimize()
+    #print output results
     print('Sum of Weight:', -m.objVal)
     for v in m.getVars():
         print(v.varName, v.x)
 
-    #--------------------output results-----------------
+    #--------------------output results to csv-----------------
     getOutputList = m.getVars()
     OutputList = []
-    
+    #a list to hold all results from gurobi
     for i in range(len(getOutputList)):
         OutputList.append(str(getOutputList[i]))
     
@@ -69,36 +70,35 @@ try:
     OutputList = [w.replace(')','') for w in OutputList]
 
     
-    
-    outputnp=np.zeros([show, interval])
-
     #add values into weight array 
+    outputnp=np.zeros([show, interval])
     for i in range(0,len(OutputList)-interval):
             outputnp[int(OutputList[i].split(',')[0]),int(OutputList[i].split(',')[1])] =OutputList[i].split(',')[2]
     print (outputnp)
     
-    outputbreak = np.zeros([1,interval])
-
     #add break into break array
+    outputbreak = np.zeros([1,interval])
     for i in range(len(OutputList)-interval,len(OutputList)):
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
     print (outputbreak)
-    #append break and list together
     
-
+    
+    #append break and list together
     #add a row into array https://stackoverflow.com/a/8298873
     outputnp=np.insert(outputnp, 0, outputbreak, 0)  
+    #convert array that contains break into df
     #convert array to df https://stackoverflow.com/a/53816059
     dfoutput = pd.DataFrame(data=outputnp)
+    #insert job names and 'break'
     #https://stackoverflow.com/a/18674915 insert a column with specific index
     dfoutput.insert(loc=0, column='Jobs', value=jobs)
-    #dfoutput['jobs'] = jobs
+   
 
     
     print (dfoutput)
     
     dfoutput.to_csv('output.csv', index=False)
 
-    #print(OutputList)
+    
 except GurobiError:
     print('Error reported')
