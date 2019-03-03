@@ -51,7 +51,7 @@ try:
     print('Sum of Weight:', -m.objVal)
     for v in m.getVars():
         print(v.varName, v.x)
-
+    print ("--- %s seconds ---" % (time.time() - start_time))
     #--------------------output results to csv-----------------
     getOutputList = m.getVars()
     OutputList = []
@@ -81,7 +81,7 @@ try:
     outputbreak = np.zeros([1,interval])
     for i in range(len(OutputList)-interval,len(OutputList)):
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
-    print (outputbreak)
+    #print (outputbreak)
     
     
     #append break and list together
@@ -102,6 +102,6 @@ try:
 
     #print(OutputList)
 
-    print ("--- %s seconds ---" % (time.time() - start_time))
+    
 except GurobiError:
     print('Error reported')
