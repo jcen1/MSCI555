@@ -4,9 +4,6 @@
 from gurobipy import *
 import pandas as pd
 import numpy as np
-import mysql.connector
-from sqlalchemy import create_engine
-import pymysql
 import csv
 import os
 #-----------------------------input-------------------------
@@ -14,6 +11,9 @@ dirname = os.path.dirname(__file__) +'/'
 s= 'weights'
 data = pd.read_csv("{}.csv".format(dirname+s))
 jobs = data.iloc[:,0:1]
+jobs=jobs.values
+
+print(jobs)
 OutputSQLdf = data.iloc[:,:]
 
 
@@ -26,7 +26,8 @@ print(data.iloc[0,1]) #rows columns
 show = data.shape[0]
 print(show)
 interval = data.shape[1]
-#interval =7
+
+#---------------gurobi model-------------------
 try:
 # Create a new model (m is the variable)
     m = Model("Personal_Music_Festival")
@@ -35,10 +36,13 @@ try:
     b = m.addVars(interval, lb=+0, vtype=GRB.BINARY, name="break_taken")
     m.update()
 
+    #objective function
     m.setObjective( -quicksum(x[i,j] * data.iloc[i,j] for i in range(show) for j in range(interval)))
     
+    #constraint 1 only one action (break/show) can be schdule can be schedule in one interval
     for j in range(interval):
         m.addConstr(quicksum(x[i,j] for i in range(show)) + b[j] == 1, "c1")
+    #constraint 2 there should at least one break 
     m.addConstr(quicksum(b[j] for j in range(interval)) >= 1, "c2" )
 
     m.optimize()
@@ -46,6 +50,7 @@ try:
     for v in m.getVars():
         print(v.varName, v.x)
 
+    #--------------------output results-----------------
     getOutputList = m.getVars()
     OutputList = []
     
@@ -63,20 +68,29 @@ try:
     OutputList = [w.replace('.0','') for w in OutputList]
     OutputList = [w.replace(')','') for w in OutputList]
 
-    OutputSQLdf
+    
     
     outputnp=np.zeros([show, interval])
 
+    #add values into weight array 
     for i in range(0,len(OutputList)-interval):
             outputnp[int(OutputList[i].split(',')[0]),int(OutputList[i].split(',')[1])] =OutputList[i].split(',')[2]
     print (outputnp)
     
     outputbreak = np.zeros([1,interval])
 
+    #add break into break array
     for i in range(len(OutputList)-interval,len(OutputList)):
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
     print (outputbreak)
 
+    #add title into array https://stackoverflow.com/a/8298873
+    dfoutput = pd.DataFrame(data=outputnp)
+    dfoutput.insert(loc=0, column='Jobs', value=jobs)
+    #dfoutput['jobs'] = jobs
+
+    
+    print (dfoutput)
     with open('schedule.csv', 'w+') as myfile:
         wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
         for i in range(show):
