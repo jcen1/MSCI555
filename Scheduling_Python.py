@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # http://www.gurobi.com/resources/seminars-and-videos/modeling-with-the-gurobi-python-interface
-
+#git sync with master https://stackoverflow.com/a/16330001
 from gurobipy import *
 import pandas as pd
 import numpy as np
@@ -86,11 +86,11 @@ try:
     #append break and list together
     
 
-    #add title into array https://stackoverflow.com/a/8298873
-    
+    #add a row into array https://stackoverflow.com/a/8298873
     outputnp=np.insert(outputnp, 0, outputbreak, 0)  
-    print (outputnp)
+    #convert array to df https://stackoverflow.com/a/53816059
     dfoutput = pd.DataFrame(data=outputnp)
+    #https://stackoverflow.com/a/18674915 insert a column with specific index
     dfoutput.insert(loc=0, column='Jobs', value=jobs)
     #dfoutput['jobs'] = jobs
 
