@@ -9,7 +9,7 @@ import os
 import time
 #-----------------------------input-------------------------
 dirname = os.path.dirname(__file__) +'/'  
-s= 'weights'
+s= 'FRIDAY_COACHELLA'
 data = pd.read_csv("{}.csv".format(dirname+s))
 jobs = data.iloc[:,0:1]
 jobs=jobs.values
