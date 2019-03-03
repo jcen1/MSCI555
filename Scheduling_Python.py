@@ -9,6 +9,7 @@ from sqlalchemy import create_engine
 import pymysql
 import csv
 import os
+import time
 #-----------------------------input-------------------------
 dirname = os.path.dirname(__file__) +'/'  
 s= 'weights'
@@ -18,14 +19,15 @@ OutputSQLdf = data.iloc[:,:]
 
 
 data = data.iloc[:,1:]
-print(data)
+
 print(data.iloc[0,1]) #rows columns
 
 
 #show = data.iloc[:,0]
 show = data.shape[0]
-print(show)
+
 interval = data.shape[1]
+start_time =time.time()
 #interval =7
 try:
 # Create a new model (m is the variable)
@@ -69,13 +71,13 @@ try:
 
     for i in range(0,len(OutputList)-interval):
             outputnp[int(OutputList[i].split(',')[0]),int(OutputList[i].split(',')[1])] =OutputList[i].split(',')[2]
-    print (outputnp)
+    #print (outputnp)
     
     outputbreak = np.zeros([1,interval])
 
     for i in range(len(OutputList)-interval,len(OutputList)):
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
-    print (outputbreak)
+    #print (outputbreak)
 
     with open('schedule.csv', 'w+', newline='') as myfile:
         wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
@@ -87,5 +89,7 @@ try:
         wr.writerow(outputbreak[0,:])
 
     #print(OutputList)
+
+    print ("--- %s seconds ---" % (time.time() - start_time))
 except GurobiError:
     print('Error reported')
