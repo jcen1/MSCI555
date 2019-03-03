@@ -77,14 +77,14 @@ try:
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
     print (outputbreak)
 
-    with open('schedule.csv', 'w+') as myfile:
+    with open('schedule.csv', 'w+', newline='') as myfile:
         wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
         for i in range(show):
-            wr.writerow(outputnp[i,:] )
+            wr.writerow(outputnp[i,:])
 
     with open('break.csv', 'w+') as myfile:
         wr = csv.writer(myfile, quoting=csv.QUOTE_ALL)
-        wr.writerow(outputbreak)
+        wr.writerow(outputbreak[0,:])
 
     #print(OutputList)
 except GurobiError:
