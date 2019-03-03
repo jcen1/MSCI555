@@ -12,7 +12,7 @@ s= 'weights'
 data = pd.read_csv("{}.csv".format(dirname+s))
 jobs = data.iloc[:,0:1]
 jobs=jobs.values
-
+jobs=np.insert(jobs, 0, ['Breaks'], 0)
 print(jobs)
 OutputSQLdf = data.iloc[:,:]
 
@@ -83,8 +83,13 @@ try:
     for i in range(len(OutputList)-interval,len(OutputList)):
             outputbreak[0,int(OutputList[i].split(',')[0])] =OutputList[i].split(',')[1]
     print (outputbreak)
+    #append break and list together
+    
 
     #add title into array https://stackoverflow.com/a/8298873
+    
+    outputnp=np.insert(outputnp, 0, outputbreak, 0)  
+    print (outputnp)
     dfoutput = pd.DataFrame(data=outputnp)
     dfoutput.insert(loc=0, column='Jobs', value=jobs)
     #dfoutput['jobs'] = jobs
