@@ -1,0 +1,641 @@
+group,variable,value
+Breaks,12:30,0
+Breaks,12:40,0
+Breaks,12:50,0
+Breaks,13:00,0
+Breaks,13:10,0
+Breaks,13:20,100
+Breaks,13:30,0
+Breaks,13:40,0
+Breaks,13:50,0
+Breaks,14:00,0
+Breaks,14:10,0
+Breaks,14:20,0
+Breaks,14:30,0
+Breaks,14:40,0
+Breaks,14:50,0
+Breaks,15:00,0
+Breaks,15:10,0
+Breaks,15:20,0
+Breaks,15:30,0
+Breaks,15:40,0
+Breaks,15:50,0
+Breaks,16:00,0
+Breaks,16:10,0
+Breaks,16:20,0
+Breaks,16:30,0
+Breaks,16:40,100
+Breaks,16:50,0
+Breaks,17:00,0
+Breaks,17:10,0
+Breaks,17:20,0
+Breaks,17:30,0
+Breaks,17:40,0
+Breaks,17:50,0
+Breaks,18:00,0
+Breaks,18:10,0
+Breaks,18:20,0
+Breaks,18:30,0
+Breaks,18:40,0
+Breaks,18:50,0
+Breaks,19:00,0
+Blaze,12:30,0
+Blaze,12:40,0
+Blaze,12:50,0
+Blaze,13:00,0
+Blaze,13:10,0
+Blaze,13:20,0
+Blaze,13:30,0
+Blaze,13:40,0
+Blaze,13:50,0
+Blaze,14:00,0
+Blaze,14:10,0
+Blaze,14:20,0
+Blaze,14:30,0
+Blaze,14:40,0
+Blaze,14:50,0
+Blaze,15:00,0
+Blaze,15:10,0
+Blaze,15:20,0
+Blaze,15:30,0
+Blaze,15:40,0
+Blaze,15:50,0
+Blaze,16:00,0
+Blaze,16:10,0
+Blaze,16:20,0
+Blaze,16:30,0
+Blaze,16:40,0
+Blaze,16:50,0
+Blaze,17:00,0
+Blaze,17:10,0
+Blaze,17:20,0
+Blaze,17:30,0
+Blaze,17:40,0
+Blaze,17:50,0
+Blaze,18:00,0
+Blaze,18:10,10
+Blaze,18:20,10
+Blaze,18:30,10
+Blaze,18:40,10
+Blaze,18:50,10
+Blaze,19:00,100
+Neighbourhood,12:30,0
+Neighbourhood,12:40,0
+Neighbourhood,12:50,0
+Neighbourhood,13:00,0
+Neighbourhood,13:10,0
+Neighbourhood,13:20,0
+Neighbourhood,13:30,0
+Neighbourhood,13:40,0
+Neighbourhood,13:50,0
+Neighbourhood,14:00,0
+Neighbourhood,14:10,0
+Neighbourhood,14:20,0
+Neighbourhood,14:30,0
+Neighbourhood,14:40,0
+Neighbourhood,14:50,0
+Neighbourhood,15:00,0
+Neighbourhood,15:10,0
+Neighbourhood,15:20,0
+Neighbourhood,15:30,0
+Neighbourhood,15:40,0
+Neighbourhood,15:50,0
+Neighbourhood,16:00,0
+Neighbourhood,16:10,0
+Neighbourhood,16:20,0
+Neighbourhood,16:30,0
+Neighbourhood,16:40,0
+Neighbourhood,16:50,0
+Neighbourhood,17:00,0
+Neighbourhood,17:10,0
+Neighbourhood,17:20,0
+Neighbourhood,17:30,0
+Neighbourhood,17:40,0
+Neighbourhood,17:50,0
+Neighbourhood,18:00,100
+Neighbourhood,18:10,100
+Neighbourhood,18:20,100
+Neighbourhood,18:30,100
+Neighbourhood,18:40,100
+Neighbourhood,18:50,100
+Neighbourhood,19:00,0
+Daniel Caesar,12:30,0
+Daniel Caesar,12:40,0
+Daniel Caesar,12:50,0
+Daniel Caesar,13:00,0
+Daniel Caesar,13:10,0
+Daniel Caesar,13:20,0
+Daniel Caesar,13:30,0
+Daniel Caesar,13:40,0
+Daniel Caesar,13:50,0
+Daniel Caesar,14:00,0
+Daniel Caesar,14:10,0
+Daniel Caesar,14:20,0
+Daniel Caesar,14:30,0
+Daniel Caesar,14:40,0
+Daniel Caesar,14:50,0
+Daniel Caesar,15:00,0
+Daniel Caesar,15:10,0
+Daniel Caesar,15:20,0
+Daniel Caesar,15:30,0
+Daniel Caesar,15:40,0
+Daniel Caesar,15:50,0
+Daniel Caesar,16:00,0
+Daniel Caesar,16:10,0
+Daniel Caesar,16:20,0
+Daniel Caesar,16:30,0
+Daniel Caesar,16:40,0
+Daniel Caesar,16:50,0
+Daniel Caesar,17:00,0
+Daniel Caesar,17:10,0
+Daniel Caesar,17:20,0
+Daniel Caesar,17:30,0
+Daniel Caesar,17:40,0
+Daniel Caesar,17:50,0
+Daniel Caesar,18:00,0
+Daniel Caesar,18:10,90
+Daniel Caesar,18:20,90
+Daniel Caesar,18:30,90
+Daniel Caesar,18:40,90
+Daniel Caesar,18:50,90
+Daniel Caesar,19:00,0
+LEON,12:30,0
+LEON,12:40,0
+LEON,12:50,0
+LEON,13:00,0
+LEON,13:10,0
+LEON,13:20,0
+LEON,13:30,0
+LEON,13:40,0
+LEON,13:50,0
+LEON,14:00,0
+LEON,14:10,0
+LEON,14:20,0
+LEON,14:30,0
+LEON,14:40,0
+LEON,14:50,0
+LEON,15:00,0
+LEON,15:10,0
+LEON,15:20,0
+LEON,15:30,0
+LEON,15:40,0
+LEON,15:50,0
+LEON,16:00,0
+LEON,16:10,0
+LEON,16:20,0
+LEON,16:30,0
+LEON,16:40,0
+LEON,16:50,0
+LEON,17:00,0
+LEON,17:10,0
+LEON,17:20,0
+LEON,17:30,0
+LEON,17:40,0
+LEON,17:50,0
+LEON,18:00,80
+LEON,18:10,80
+LEON,18:20,80
+LEON,18:30,80
+LEON,18:40,80
+LEON,18:50,80
+LEON,19:00,0
+SuperDuperKyle,12:30,0
+SuperDuperKyle,12:40,0
+SuperDuperKyle,12:50,0
+SuperDuperKyle,13:00,0
+SuperDuperKyle,13:10,0
+SuperDuperKyle,13:20,0
+SuperDuperKyle,13:30,0
+SuperDuperKyle,13:40,0
+SuperDuperKyle,13:50,0
+SuperDuperKyle,14:00,0
+SuperDuperKyle,14:10,0
+SuperDuperKyle,14:20,0
+SuperDuperKyle,14:30,0
+SuperDuperKyle,14:40,0
+SuperDuperKyle,14:50,0
+SuperDuperKyle,15:00,0
+SuperDuperKyle,15:10,0
+SuperDuperKyle,15:20,0
+SuperDuperKyle,15:30,0
+SuperDuperKyle,15:40,0
+SuperDuperKyle,15:50,0
+SuperDuperKyle,16:00,0
+SuperDuperKyle,16:10,0
+SuperDuperKyle,16:20,0
+SuperDuperKyle,16:30,0
+SuperDuperKyle,16:40,0
+SuperDuperKyle,16:50,0
+SuperDuperKyle,17:00,0
+SuperDuperKyle,17:10,0
+SuperDuperKyle,17:20,0
+SuperDuperKyle,17:30,0
+SuperDuperKyle,17:40,0
+SuperDuperKyle,17:50,100
+SuperDuperKyle,18:00,10
+SuperDuperKyle,18:10,10
+SuperDuperKyle,18:20,10
+SuperDuperKyle,18:30,10
+SuperDuperKyle,18:40,10
+SuperDuperKyle,18:50,0
+SuperDuperKyle,19:00,0
+Kali Uchis,12:30,0
+Kali Uchis,12:40,0
+Kali Uchis,12:50,0
+Kali Uchis,13:00,0
+Kali Uchis,13:10,0
+Kali Uchis,13:20,0
+Kali Uchis,13:30,0
+Kali Uchis,13:40,0
+Kali Uchis,13:50,0
+Kali Uchis,14:00,0
+Kali Uchis,14:10,0
+Kali Uchis,14:20,0
+Kali Uchis,14:30,0
+Kali Uchis,14:40,0
+Kali Uchis,14:50,0
+Kali Uchis,15:00,0
+Kali Uchis,15:10,0
+Kali Uchis,15:20,0
+Kali Uchis,15:30,0
+Kali Uchis,15:40,0
+Kali Uchis,15:50,0
+Kali Uchis,16:00,0
+Kali Uchis,16:10,0
+Kali Uchis,16:20,0
+Kali Uchis,16:30,0
+Kali Uchis,16:40,0
+Kali Uchis,16:50,0
+Kali Uchis,17:00,20
+Kali Uchis,17:10,20
+Kali Uchis,17:20,20
+Kali Uchis,17:30,20
+Kali Uchis,17:40,20
+Kali Uchis,17:50,0
+Kali Uchis,18:00,0
+Kali Uchis,18:10,0
+Kali Uchis,18:20,0
+Kali Uchis,18:30,0
+Kali Uchis,18:40,0
+Kali Uchis,18:50,0
+Kali Uchis,19:00,0
+Tank and the Bangas,12:30,0
+Tank and the Bangas,12:40,0
+Tank and the Bangas,12:50,0
+Tank and the Bangas,13:00,0
+Tank and the Bangas,13:10,0
+Tank and the Bangas,13:20,0
+Tank and the Bangas,13:30,0
+Tank and the Bangas,13:40,0
+Tank and the Bangas,13:50,0
+Tank and the Bangas,14:00,0
+Tank and the Bangas,14:10,0
+Tank and the Bangas,14:20,0
+Tank and the Bangas,14:30,0
+Tank and the Bangas,14:40,0
+Tank and the Bangas,14:50,0
+Tank and the Bangas,15:00,0
+Tank and the Bangas,15:10,0
+Tank and the Bangas,15:20,0
+Tank and the Bangas,15:30,0
+Tank and the Bangas,15:40,0
+Tank and the Bangas,15:50,0
+Tank and the Bangas,16:00,0
+Tank and the Bangas,16:10,0
+Tank and the Bangas,16:20,0
+Tank and the Bangas,16:30,0
+Tank and the Bangas,16:40,0
+Tank and the Bangas,16:50,100
+Tank and the Bangas,17:00,100
+Tank and the Bangas,17:10,100
+Tank and the Bangas,17:20,100
+Tank and the Bangas,17:30,100
+Tank and the Bangas,17:40,100
+Tank and the Bangas,17:50,0
+Tank and the Bangas,18:00,0
+Tank and the Bangas,18:10,0
+Tank and the Bangas,18:20,0
+Tank and the Bangas,18:30,0
+Tank and the Bangas,18:40,0
+Tank and the Bangas,18:50,0
+Tank and the Bangas,19:00,0
+Los Angeles Azules,12:30,0
+Los Angeles Azules,12:40,0
+Los Angeles Azules,12:50,0
+Los Angeles Azules,13:00,0
+Los Angeles Azules,13:10,0
+Los Angeles Azules,13:20,0
+Los Angeles Azules,13:30,0
+Los Angeles Azules,13:40,0
+Los Angeles Azules,13:50,0
+Los Angeles Azules,14:00,0
+Los Angeles Azules,14:10,0
+Los Angeles Azules,14:20,0
+Los Angeles Azules,14:30,0
+Los Angeles Azules,14:40,0
+Los Angeles Azules,14:50,0
+Los Angeles Azules,15:00,0
+Los Angeles Azules,15:10,0
+Los Angeles Azules,15:20,40
+Los Angeles Azules,15:30,100
+Los Angeles Azules,15:40,100
+Los Angeles Azules,15:50,40
+Los Angeles Azules,16:00,40
+Los Angeles Azules,16:10,40
+Los Angeles Azules,16:20,0
+Los Angeles Azules,16:30,0
+Los Angeles Azules,16:40,0
+Los Angeles Azules,16:50,0
+Los Angeles Azules,17:00,0
+Los Angeles Azules,17:10,0
+Los Angeles Azules,17:20,0
+Los Angeles Azules,17:30,0
+Los Angeles Azules,17:40,0
+Los Angeles Azules,17:50,0
+Los Angeles Azules,18:00,0
+Los Angeles Azules,18:10,0
+Los Angeles Azules,18:20,0
+Los Angeles Azules,18:30,0
+Los Angeles Azules,18:40,0
+Los Angeles Azules,18:50,0
+Los Angeles Azules,19:00,0
+Skip Markley,12:30,0
+Skip Markley,12:40,0
+Skip Markley,12:50,0
+Skip Markley,13:00,0
+Skip Markley,13:10,0
+Skip Markley,13:20,0
+Skip Markley,13:30,0
+Skip Markley,13:40,0
+Skip Markley,13:50,0
+Skip Markley,14:00,0
+Skip Markley,14:10,0
+Skip Markley,14:20,0
+Skip Markley,14:30,0
+Skip Markley,14:40,0
+Skip Markley,14:50,0
+Skip Markley,15:00,0
+Skip Markley,15:10,0
+Skip Markley,15:20,0
+Skip Markley,15:30,0
+Skip Markley,15:40,0
+Skip Markley,15:50,100
+Skip Markley,16:00,100
+Skip Markley,16:10,100
+Skip Markley,16:20,100
+Skip Markley,16:30,0
+Skip Markley,16:40,0
+Skip Markley,16:50,0
+Skip Markley,17:00,0
+Skip Markley,17:10,0
+Skip Markley,17:20,0
+Skip Markley,17:30,0
+Skip Markley,17:40,0
+Skip Markley,17:50,0
+Skip Markley,18:00,0
+Skip Markley,18:10,0
+Skip Markley,18:20,0
+Skip Markley,18:30,0
+Skip Markley,18:40,0
+Skip Markley,18:50,0
+Skip Markley,19:00,0
+PVRIS,12:30,0
+PVRIS,12:40,0
+PVRIS,12:50,0
+PVRIS,13:00,0
+PVRIS,13:10,0
+PVRIS,13:20,0
+PVRIS,13:30,0
+PVRIS,13:40,0
+PVRIS,13:50,0
+PVRIS,14:00,0
+PVRIS,14:10,0
+PVRIS,14:20,0
+PVRIS,14:30,0
+PVRIS,14:40,0
+PVRIS,14:50,0
+PVRIS,15:00,0
+PVRIS,15:10,0
+PVRIS,15:20,0
+PVRIS,15:30,0
+PVRIS,15:40,40
+PVRIS,15:50,40
+PVRIS,16:00,40
+PVRIS,16:10,40
+PVRIS,16:20,40
+PVRIS,16:30,100
+PVRIS,16:40,0
+PVRIS,16:50,0
+PVRIS,17:00,0
+PVRIS,17:10,0
+PVRIS,17:20,0
+PVRIS,17:30,0
+PVRIS,17:40,0
+PVRIS,17:50,0
+PVRIS,18:00,0
+PVRIS,18:10,0
+PVRIS,18:20,0
+PVRIS,18:30,0
+PVRIS,18:40,0
+PVRIS,18:50,0
+PVRIS,19:00,0
+Knox Fortune,12:30,0
+Knox Fortune,12:40,0
+Knox Fortune,12:50,0
+Knox Fortune,13:00,0
+Knox Fortune,13:10,0
+Knox Fortune,13:20,0
+Knox Fortune,13:30,0
+Knox Fortune,13:40,0
+Knox Fortune,13:50,0
+Knox Fortune,14:00,0
+Knox Fortune,14:10,0
+Knox Fortune,14:20,0
+Knox Fortune,14:30,0
+Knox Fortune,14:40,80
+Knox Fortune,14:50,80
+Knox Fortune,15:00,80
+Knox Fortune,15:10,80
+Knox Fortune,15:20,80
+Knox Fortune,15:30,0
+Knox Fortune,15:40,0
+Knox Fortune,15:50,0
+Knox Fortune,16:00,0
+Knox Fortune,16:10,0
+Knox Fortune,16:20,0
+Knox Fortune,16:30,0
+Knox Fortune,16:40,0
+Knox Fortune,16:50,0
+Knox Fortune,17:00,0
+Knox Fortune,17:10,0
+Knox Fortune,17:20,0
+Knox Fortune,17:30,0
+Knox Fortune,17:40,0
+Knox Fortune,17:50,0
+Knox Fortune,18:00,0
+Knox Fortune,18:10,0
+Knox Fortune,18:20,0
+Knox Fortune,18:30,0
+Knox Fortune,18:40,0
+Knox Fortune,18:50,0
+Knox Fortune,19:00,0
+Moses Sumney,12:30,0
+Moses Sumney,12:40,0
+Moses Sumney,12:50,0
+Moses Sumney,13:00,0
+Moses Sumney,13:10,0
+Moses Sumney,13:20,0
+Moses Sumney,13:30,0
+Moses Sumney,13:40,0
+Moses Sumney,13:50,0
+Moses Sumney,14:00,0
+Moses Sumney,14:10,0
+Moses Sumney,14:20,100
+Moses Sumney,14:30,100
+Moses Sumney,14:40,100
+Moses Sumney,14:50,100
+Moses Sumney,15:00,100
+Moses Sumney,15:10,100
+Moses Sumney,15:20,100
+Moses Sumney,15:30,0
+Moses Sumney,15:40,0
+Moses Sumney,15:50,0
+Moses Sumney,16:00,0
+Moses Sumney,16:10,0
+Moses Sumney,16:20,0
+Moses Sumney,16:30,0
+Moses Sumney,16:40,0
+Moses Sumney,16:50,0
+Moses Sumney,17:00,0
+Moses Sumney,17:10,0
+Moses Sumney,17:20,0
+Moses Sumney,17:30,0
+Moses Sumney,17:40,0
+Moses Sumney,17:50,0
+Moses Sumney,18:00,0
+Moses Sumney,18:10,0
+Moses Sumney,18:20,0
+Moses Sumney,18:30,0
+Moses Sumney,18:40,0
+Moses Sumney,18:50,0
+Moses Sumney,19:00,0
+JustPudge,12:30,0
+JustPudge,12:40,0
+JustPudge,12:50,0
+JustPudge,13:00,0
+JustPudge,13:10,0
+JustPudge,13:20,0
+JustPudge,13:30,100
+JustPudge,13:40,100
+JustPudge,13:50,100
+JustPudge,14:00,100
+JustPudge,14:10,100
+JustPudge,14:20,60
+JustPudge,14:30,0
+JustPudge,14:40,0
+JustPudge,14:50,0
+JustPudge,15:00,0
+JustPudge,15:10,0
+JustPudge,15:20,0
+JustPudge,15:30,0
+JustPudge,15:40,0
+JustPudge,15:50,0
+JustPudge,16:00,0
+JustPudge,16:10,0
+JustPudge,16:20,0
+JustPudge,16:30,0
+JustPudge,16:40,0
+JustPudge,16:50,0
+JustPudge,17:00,0
+JustPudge,17:10,0
+JustPudge,17:20,0
+JustPudge,17:30,0
+JustPudge,17:40,0
+JustPudge,17:50,0
+JustPudge,18:00,0
+JustPudge,18:10,0
+JustPudge,18:20,0
+JustPudge,18:30,0
+JustPudge,18:40,0
+JustPudge,18:50,0
+JustPudge,19:00,0
+Benjamin Clementine,12:30,0
+Benjamin Clementine,12:40,0
+Benjamin Clementine,12:50,0
+Benjamin Clementine,13:00,0
+Benjamin Clementine,13:10,0
+Benjamin Clementine,13:20,0
+Benjamin Clementine,13:30,10
+Benjamin Clementine,13:40,10
+Benjamin Clementine,13:50,10
+Benjamin Clementine,14:00,10
+Benjamin Clementine,14:10,10
+Benjamin Clementine,14:20,0
+Benjamin Clementine,14:30,0
+Benjamin Clementine,14:40,0
+Benjamin Clementine,14:50,0
+Benjamin Clementine,15:00,0
+Benjamin Clementine,15:10,0
+Benjamin Clementine,15:20,0
+Benjamin Clementine,15:30,0
+Benjamin Clementine,15:40,0
+Benjamin Clementine,15:50,0
+Benjamin Clementine,16:00,0
+Benjamin Clementine,16:10,0
+Benjamin Clementine,16:20,0
+Benjamin Clementine,16:30,0
+Benjamin Clementine,16:40,0
+Benjamin Clementine,16:50,0
+Benjamin Clementine,17:00,0
+Benjamin Clementine,17:10,0
+Benjamin Clementine,17:20,0
+Benjamin Clementine,17:30,0
+Benjamin Clementine,17:40,0
+Benjamin Clementine,17:50,0
+Benjamin Clementine,18:00,0
+Benjamin Clementine,18:10,0
+Benjamin Clementine,18:20,0
+Benjamin Clementine,18:30,0
+Benjamin Clementine,18:40,0
+Benjamin Clementine,18:50,0
+Benjamin Clementine,19:00,0
+DMM,12:30,100
+DMM,12:40,100
+DMM,12:50,100
+DMM,13:00,100
+DMM,13:10,100
+DMM,13:20,0
+DMM,13:30,0
+DMM,13:40,0
+DMM,13:50,0
+DMM,14:00,0
+DMM,14:10,0
+DMM,14:20,0
+DMM,14:30,0
+DMM,14:40,0
+DMM,14:50,0
+DMM,15:00,0
+DMM,15:10,0
+DMM,15:20,0
+DMM,15:30,0
+DMM,15:40,0
+DMM,15:50,0
+DMM,16:00,0
+DMM,16:10,0
+DMM,16:20,0
+DMM,16:30,0
+DMM,16:40,0
+DMM,16:50,0
+DMM,17:00,0
+DMM,17:10,0
+DMM,17:20,0
+DMM,17:30,0
+DMM,17:40,0
+DMM,17:50,0
+DMM,18:00,0
+DMM,18:10,0
+DMM,18:20,0
+DMM,18:30,0
+DMM,18:40,0
+DMM,18:50,0
+DMM,19:00,0
