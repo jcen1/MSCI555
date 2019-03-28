@@ -9,7 +9,7 @@ import os
 import time
 #-----------------------------input-------------------------
 dirname = os.path.dirname(__file__) +'/'  
-s= 'weights'
+s= 'FRIDAY_COACHELLA'
 data = pd.read_csv("{}.csv".format(dirname+s))
 jobs = data.iloc[:,0:1]
 jobs=jobs.values
@@ -51,6 +51,7 @@ try:
     print('Sum of Weight:', -m.objVal)
     for v in m.getVars():
         print(v.varName, v.x)
+    timeprocessed = time.time() - start_time
     print ("--- %s seconds ---" % (time.time() - start_time))
     #--------------------output results to csv-----------------
     getOutputList = m.getVars()
@@ -98,7 +99,7 @@ try:
     
     #print (dfoutput)
     
-    dfoutput.to_csv('output.csv', index=False)
+    dfoutput.to_csv(s+str(timeprocessed)+'output.csv', index=False)
 
     #print(OutputList)
 
