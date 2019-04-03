@@ -1,0 +1,79 @@
+Time to Process:  9.00999999046
+Time:  11:00 AM  Band:  Breaks
+Time:  11:10 AM  Band:  Breaks
+Time:  11:20 AM  Band:  Breaks
+Time:  11:30 AM  Band:  Breaks
+Time:  11:40 AM  Band:  Birdtastique
+Time:  11:50 AM  Band:  Birdtastique
+Time:  12:00 PM  Band:  Birdtastique
+Time:  12:10 PM  Band:  Birdtastique
+Time:  12:20 PM  Band:  Birdtastique
+Time:  12:30 PM  Band:  Salami Rose Joe Lewis
+Time:  12:40 PM  Band:  Salami Rose Joe Lewis
+Time:  12:50 PM  Band:  Salami Rose Joe Lewis
+Time:  1:00 PM  Band:  Salami Rose Joe Lewis
+Time:  1:10 PM  Band:  Bane's World
+Time:  1:20 PM  Band:  Bane's World
+Time:  1:30 PM  Band:  Alf Alpha
+Time:  1:40 PM  Band:  Otoboke Beaver
+Time:  1:50 PM  Band:  Travel
+Time:  2:00 PM  Band:  Travel
+Time:  2:10 PM  Band:  Otoboke Beaver
+Time:  2:20 PM  Band:  Sahar Z
+Time:  2:30 PM  Band:  Sahar Z
+Time:  2:40 PM  Band:  Declan McKenna
+Time:  2:50 PM  Band:  Declan McKenna
+Time:  3:00 PM  Band:  Travel
+Time:  3:10 PM  Band:  Big Thief
+Time:  3:20 PM  Band:  Django Django
+Time:  3:30 PM  Band:  Travel
+Time:  3:40 PM  Band:  Travel
+Time:  3:50 PM  Band:  Django Django
+Time:  4:00 PM  Band:  Django Django
+Time:  4:10 PM  Band:  Busy P
+Time:  4:20 PM  Band:  Travel
+Time:  4:30 PM  Band:  R.O.C.
+Time:  4:40 PM  Band:  Flatbrush Zombies
+Time:  4:50 PM  Band:  Flatbrush Zombies
+Time:  5:00 PM  Band:  Chromeo
+Time:  5:10 PM  Band:  Travel
+Time:  5:20 PM  Band:  Priests
+Time:  5:30 PM  Band:  Priests
+Time:  5:40 PM  Band:  Priests
+Time:  5:50 PM  Band:  Travel
+Time:  6:00 PM  Band:  Travel
+Time:  6:10 PM  Band:  Travel
+Time:  6:20 PM  Band:  Jackmaster
+Time:  6:30 PM  Band:  Jackmaster
+Time:  6:40 PM  Band:  Jackmaster
+Time:  6:50 PM  Band:  Travel
+Time:  7:00 PM  Band:  MO
+Time:  7:10 PM  Band:  Travel
+Time:  7:20 PM  Band:  Bedouin
+Time:  7:30 PM  Band:  David Byrne
+Time:  7:40 PM  Band:  David Byrne
+Time:  7:50 PM  Band:  Travel
+Time:  8:00 PM  Band:  Tyler the Creater
+Time:  8:10 PM  Band:  Tyler the Creater
+Time:  8:20 PM  Band:  Travel
+Time:  8:30 PM  Band:  Travel
+Time:  8:40 PM  Band:  Travel
+Time:  8:50 PM  Band:  Travel
+Time:  9:00 PM  Band:  Pachanga Boys
+Time:  9:10 PM  Band:  Travel
+Time:  9:20 PM  Band:  Jorja Smith
+Time:  9:30 PM  Band:  The Black Madonna
+Time:  9:40 PM  Band:  The Black Madonna
+Time:  9:50 PM  Band:  The Black Madonna
+Time:  10:00 PM  Band:  The Black Madonna
+Time:  10:10 PM  Band:  Travel
+Time:  10:20 PM  Band:  Alt-j
+Time:  10:30 PM  Band:  Travel
+Time:  10:40 PM  Band:  Travel
+Time:  10:50 PM  Band:  X Japan
+Time:  11:00 PM  Band:  X Japan
+Time:  11:10 PM  Band:  X Japan
+Time:  11:20 PM  Band:  X Japan
+Time:  11:30 PM  Band:  X Japan
+Time:  11:40 PM  Band:  X Japan
+Time:  11:50 PM  Band:  X Japan
