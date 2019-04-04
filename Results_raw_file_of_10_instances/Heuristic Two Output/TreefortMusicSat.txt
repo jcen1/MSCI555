@@ -1,0 +1,28 @@
+Festival: TreefortMusicSat
+Time:  2:00 PM  Band:  Breaks
+Time:  2:30 PM  Band:  SunBathe
+Time:  3:00 PM  Band:  The Suffers
+Time:  3:30 PM  Band:  Travel
+Time:  4:00 PM  Band:  Travel
+Time:  4:30 PM  Band:  Mertle
+Time:  5:00 PM  Band:  Travel
+Time:  5:30 PM  Band:  Cosmonautical
+Time:  6:00 PM  Band:  Travel
+Time:  6:30 PM  Band:  Travel
+Time:  7:00 PM  Band:  Travel
+Time:  7:30 PM  Band:  1788-L
+Time:  8:00 PM  Band:  Chame & OG
+Time:  8:30 PM  Band:  Travel
+Time:  9:00 PM  Band:  Travel
+Time:  9:30 PM  Band:  Night Beats
+Time:  10:00 PM  Band:  Travel
+Time:  10:30 PM  Band:  Travel
+Time:  11:00 PM  Band:  Travel
+Time:  11:30 PM  Band:  The Golden Fleece
+Time:  12:00 AM  Band:  Zee Will
+Time:  12:30 AM  Band:  Travel
+Time:  1:00 AM  Band:  Travel
+Time:  1:30 AM  Band:  Lonesome Jetboat Ramblers
+Time:  2:00 AM  Band:  Lonesome Jetboat Ramblers
+Time to Process:  5.50099992752
+Solution Score:  40.39959524999999

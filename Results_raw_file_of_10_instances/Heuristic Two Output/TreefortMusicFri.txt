@@ -1,0 +1,28 @@
+Festival: TreefortMusicFri
+Time:  2:00 PM  Band:  Breaks
+Time:  2:30 PM  Band:  Travel
+Time:  3:00 PM  Band:  LarsLuna
+Time:  3:30 PM  Band:  LarsLuna
+Time:  4:00 PM  Band:  LarsLuna
+Time:  4:30 PM  Band:  The Suffers
+Time:  5:00 PM  Band:  Travel
+Time:  5:30 PM  Band:  Wild Spells
+Time:  6:00 PM  Band:  Travel
+Time:  6:30 PM  Band:  Childspeak
+Time:  7:00 PM  Band:  Childspeak
+Time:  7:30 PM  Band:  Travel
+Time:  8:00 PM  Band:  Cosmonautical
+Time:  8:30 PM  Band:  Travel
+Time:  9:00 PM  Band:  Laura Veirs
+Time:  9:30 PM  Band:  Travel
+Time:  10:00 PM  Band:  Bibi McGill
+Time:  10:30 PM  Band:  Frim Fram 4
+Time:  11:00 PM  Band:  Frim Fram 4
+Time:  11:30 PM  Band:  Frim Fram 4
+Time:  12:00 AM  Band:  Frim Fram 4
+Time:  12:30 AM  Band:  Travel
+Time:  1:00 AM  Band:  Hillstomp
+Time:  1:30 AM  Band:  Anemone
+Time:  2:00 AM  Band:  Anemone
+Time to Process:  4.26899981499
+Solution Score:  44.746961228
