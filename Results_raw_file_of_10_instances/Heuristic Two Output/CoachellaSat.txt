@@ -1,4 +1,4 @@
-Time to Process:  9.00999999046
+Festival: Sat_COACHELLA
 Time:  11:00 AM  Band:  Breaks
 Time:  11:10 AM  Band:  Breaks
 Time:  11:20 AM  Band:  Breaks
@@ -77,3 +77,5 @@ Time:  11:20 PM  Band:  X Japan
 Time:  11:30 PM  Band:  X Japan
 Time:  11:40 PM  Band:  X Japan
 Time:  11:50 PM  Band:  X Japan
+Time to Process:  8.33200001717
+Solution Score:  139.124387959

@@ -1,4 +1,4 @@
-Time to Process:  1.30200004578
+Festival: FRIDAY_COACHELLA
 Time:  12:30  Band:  DMM
 Time:  12:40  Band:  DMM
 Time:  12:50  Band:  DMM
@@ -39,3 +39,5 @@ Time:  18:30  Band:  Neighbourhood
 Time:  18:40  Band:  Neighbourhood
 Time:  18:50  Band:  Neighbourhood
 Time:  19:00  Band:  Breaks
+Time to Process:  1.14599990845
+Solution Score:  59.6

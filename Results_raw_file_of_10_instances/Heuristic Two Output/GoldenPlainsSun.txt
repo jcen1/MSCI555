@@ -1,4 +1,4 @@
-Time to Process:  1.62299990654
+Festival: GoldenPlainsThirteenSun
 Time:  10:30 AM  Band:  Hieroglyphic Being
 Time:  11:00 AM  Band:  Travel
 Time:  11:30 AM  Band:  Gregor
@@ -40,3 +40,5 @@ Time:  5:00 AM  Band:  Millu & Pjenne
 Time:  5:30 AM  Band:  Millu & Pjenne
 Time:  6:00 AM  Band:  Millu & Pjenne
 Time:  6:30 AM  Band:  Millu & Pjenne
+Time to Process:  1.375
+Solution Score:  39.02387095600001

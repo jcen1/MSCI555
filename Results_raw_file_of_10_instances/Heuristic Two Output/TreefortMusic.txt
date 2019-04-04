@@ -1,4 +1,4 @@
-Time to Process:  3.80099987984
+Festival: TreefortMusic
 Time:  1:30 PM  Band:  Welcome
 Time:  2:00 PM  Band:  Raw Humps
 Time:  2:30 PM  Band:  Raw Humps
@@ -71,3 +71,5 @@ Time:  5:00 AM  Band:  Millu & Pjenne
 Time:  5:30 AM  Band:  Millu & Pjenne
 Time:  6:00 AM  Band:  Millu & Pjenne
 Time:  6:30 AM  Band:  Millu & Pjenne
+Time to Process:  4.48400020599
+Solution Score:  65.734448675
