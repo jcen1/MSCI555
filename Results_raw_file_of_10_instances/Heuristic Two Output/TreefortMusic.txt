@@ -1,4 +1,4 @@
-Festival: TreefortMusic
+Festival: TreefortMusicTues
 Time:  1:30 PM  Band:  Welcome
 Time:  2:00 PM  Band:  Raw Humps
 Time:  2:30 PM  Band:  Raw Humps

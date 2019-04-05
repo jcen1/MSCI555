@@ -1,4 +1,4 @@
-Time to Process:  3.58500003815
+Festival: GoldenPlainsThirteenSat
 Time:  1:30 PM  Band:  Welcome
 Time:  2:00 PM  Band:  Raw Humps
 Time:  2:30 PM  Band:  Travel
@@ -71,3 +71,5 @@ Time:  5:00 AM  Band:  Millu & Pjenne
 Time:  5:30 AM  Band:  Millu & Pjenne
 Time:  6:00 AM  Band:  Millu & Pjenne
 Time:  6:30 AM  Band:  Millu & Pjenne
+Time to Process:  4.14099979401
+Solution Score:  66.69557774199998
