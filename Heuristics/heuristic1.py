@@ -1,11 +1,12 @@
 import pandas as pd
+import os
+import time
 # input for numbers
 # raw_input for words
-
-csv = raw_input("Enter the name of the file to import: ")
+#dirname = os.path.dirname(__file__) +'/'
+csv = 'GoldenPlainsThirteenSun'
 df = pd.DataFrame()
 #dji = pd.read_excel("Assignment 3&4-data files/{}.xlsx".format('DJI-daily'), skiprows=22,usecols=[0, 1],index_col=0)
-
 
 
 ### get the biggest weight from every column ###
@@ -21,8 +22,8 @@ df = df.shift()
 #Make top row zeros
 df.loc[0] = 0
 
-print df
-
+#print df
+start_time =time.time()
 # create object containing (Weight,Band,Time)
 class MyClass(object):
     def __init__(self, weight, band, time):
@@ -51,6 +52,12 @@ for column in df:
 # output results
 #print [column.time for column in outputArray]
 #print [column.band for column in outputArray]
-
+timeprocessed = time.time() - start_time
+score = 0
+print "Festival:", csv
 for column in outputArray:
     print "Time: ", column.time, " Band: ", column.band
+    score = score + column.weight
+print "Time to Process: ", timeprocessed
+##Solution Score
+print "Solution Score: ", score

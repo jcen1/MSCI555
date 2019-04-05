@@ -1,44 +1,44 @@
 Festival: GoldenPlainsThirteenSun
 Time:  10:30 AM  Band:  Hieroglyphic Being
-Time:  11:00 AM  Band:  Travel
+Time:  11:00 AM  Band:  Breaks
 Time:  11:30 AM  Band:  Gregor
-Time:  12:00 PM  Band:  DRMNGNOW
-Time:  12:30 PM  Band:  DRMNGNOW
-Time:  1:00 PM  Band:  Hatchie
-Time:  1:30 PM  Band:  Hatchie
+Time:  12:00 PM  Band:  Gregor
+Time:  12:30 PM  Band:  Travel
+Time:  1:00 PM  Band:  DRMNGNOW
+Time:  1:30 PM  Band:  Travel
 Time:  2:00 PM  Band:  Hatchie
 Time:  2:30 PM  Band:  Hatchie
-Time:  3:00 PM  Band:  The Living Eyes
-Time:  3:30 PM  Band:  The Living Eyes
-Time:  4:00 PM  Band:  Amp Fiddler
-Time:  4:30 PM  Band:  Amp Fiddler
+Time:  3:00 PM  Band:  Hatchie
+Time:  3:30 PM  Band:  Travel
+Time:  4:00 PM  Band:  The Living Eyes
+Time:  4:30 PM  Band:  Travel
 Time:  5:00 PM  Band:  Amp Fiddler
-Time:  5:30 PM  Band:  SK Simeon
-Time:  6:00 PM  Band:  SK Simeon
+Time:  5:30 PM  Band:  Amp Fiddler
+Time:  6:00 PM  Band:  Travel
 Time:  6:30 PM  Band:  SK Simeon
-Time:  7:00 PM  Band:  Four TET
-Time:  7:30 PM  Band:  The Jesus and Mary Chain
+Time:  7:00 PM  Band:  SK Simeon
+Time:  7:30 PM  Band:  Travel
 Time:  8:00 PM  Band:  The Jesus and Mary Chain
 Time:  8:30 PM  Band:  The Jesus and Mary Chain
-Time:  9:00 PM  Band:  Happy Mondays
+Time:  9:00 PM  Band:  The Jesus and Mary Chain
 Time:  9:30 PM  Band:  Travel
 Time:  10:00 PM  Band:  Khruangbin
-Time:  10:30 PM  Band:  Confidence Man
-Time:  11:00 PM  Band:  Danny Krivit
-Time:  11:30 PM  Band:  Breaks
+Time:  10:30 PM  Band:  Khruangbin
+Time:  11:00 PM  Band:  Travel
+Time:  11:30 PM  Band:  Travel
 Time:  12:00 AM  Band:  Danny Krivit
 Time:  12:30 AM  Band:  Danny Krivit
 Time:  1:00 AM  Band:  Danny Krivit
-Time:  1:30 AM  Band:  DJ Harvey
-Time:  2:00 AM  Band:  DJ Harvey
+Time:  1:30 AM  Band:  Danny Krivit
+Time:  2:00 AM  Band:  Travel
 Time:  2:30 AM  Band:  DJ Harvey
 Time:  3:00 AM  Band:  DJ Harvey
 Time:  3:30 AM  Band:  DJ Harvey
 Time:  4:00 AM  Band:  DJ Harvey
-Time:  4:30 AM  Band:  Millu & Pjenne
-Time:  5:00 AM  Band:  Millu & Pjenne
+Time:  4:30 AM  Band:  DJ Harvey
+Time:  5:00 AM  Band:  Travel
 Time:  5:30 AM  Band:  Millu & Pjenne
 Time:  6:00 AM  Band:  Millu & Pjenne
 Time:  6:30 AM  Band:  Millu & Pjenne
-Time to Process:  1.375
-Solution Score:  39.02387095600001
+Time to Process:  0.539999961853
+Solution Score:  12.384339529

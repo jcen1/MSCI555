@@ -1,75 +1,75 @@
 Festival: GoldenPlainsThirteenSat
 Time:  1:30 PM  Band:  Welcome
-Time:  2:00 PM  Band:  Raw Humps
-Time:  2:30 PM  Band:  Travel
-Time:  3:00 PM  Band:  Flohio
-Time:  3:30 PM  Band:  Flohio
+Time:  2:00 PM  Band:  Breaks
+Time:  2:30 PM  Band:  Shannon & the Clams
+Time:  3:00 PM  Band:  Travel
+Time:  3:30 PM  Band:  Travel
 Time:  4:00 PM  Band:  Flohio
-Time:  4:30 PM  Band:  Rhye
+Time:  4:30 PM  Band:  Travel
 Time:  5:00 PM  Band:  Rhye
-Time:  5:30 PM  Band:  Marlon Williams
-Time:  6:00 PM  Band:  Marlon Williams
+Time:  5:30 PM  Band:  Rhye
+Time:  6:00 PM  Band:  Travel
 Time:  6:30 PM  Band:  Marlon Williams
-Time:  7:00 PM  Band:  Breaks
+Time:  7:00 PM  Band:  Travel
 Time:  7:30 PM  Band:  Magic Dirt
 Time:  8:00 PM  Band:  Magic Dirt
 Time:  8:30 PM  Band:  Magic Dirt
 Time:  9:00 PM  Band:  Magic Dirt
-Time:  9:30 PM  Band:  Beach House
-Time:  10:00 PM  Band:  Beach House
+Time:  9:30 PM  Band:  Magic Dirt
+Time:  10:00 PM  Band:  Travel
 Time:  10:30 PM  Band:  Beach House
-Time:  11:00 PM  Band:  Acid Mothers Temple
+Time:  11:00 PM  Band:  Travel
 Time:  11:30 PM  Band:  Acid Mothers Temple
-Time:  12:00 AM  Band:  The Internet
-Time:  12:30 AM  Band:  The Internet
-Time:  1:00 AM  Band:  Honey
+Time:  12:00 AM  Band:  Acid Mothers Temple
+Time:  12:30 AM  Band:  Travel
+Time:  1:00 AM  Band:  Travel
 Time:  1:30 AM  Band:  Honey
 Time:  2:00 AM  Band:  Honey
-Time:  2:30 AM  Band:  Horatio Luna
+Time:  2:30 AM  Band:  Travel
 Time:  3:00 AM  Band:  Horatio Luna
 Time:  3:30 AM  Band:  Horatio Luna
-Time:  4:00 AM  Band:  Hieroglyphic Being
+Time:  4:00 AM  Band:  Travel
 Time:  4:30 AM  Band:  Hieroglyphic Being
-Time:  10:30 AM  Band:  Gregor
-Time:  11:00 AM  Band:  Gregor
+Time:  10:30 AM  Band:  Hieroglyphic Being
+Time:  11:00 AM  Band:  Travel
 Time:  11:30 AM  Band:  Gregor
-Time:  12:00 PM  Band:  DRMNGNOW
-Time:  12:30 PM  Band:  DRMNGNOW
-Time:  1:00 PM  Band:  Hatchie
-Time:  1:30 PM.1  Band:  Hatchie
+Time:  12:00 PM  Band:  Gregor
+Time:  12:30 PM  Band:  Travel
+Time:  1:00 PM  Band:  DRMNGNOW
+Time:  1:30 PM.1  Band:  Travel
 Time:  2:00 PM.1  Band:  Hatchie
 Time:  2:30 PM.1  Band:  Hatchie
-Time:  3:00 PM.1  Band:  The Living Eyes
-Time:  3:30 PM.1  Band:  The Living Eyes
-Time:  4:00 PM.1  Band:  Amp Fiddler
-Time:  4:30 PM.1  Band:  Amp Fiddler
+Time:  3:00 PM.1  Band:  Hatchie
+Time:  3:30 PM.1  Band:  Travel
+Time:  4:00 PM.1  Band:  The Living Eyes
+Time:  4:30 PM.1  Band:  Travel
 Time:  5:00 PM.1  Band:  Amp Fiddler
-Time:  5:30 PM.1  Band:  SK Simeon
-Time:  6:00 PM.1  Band:  SK Simeon
+Time:  5:30 PM.1  Band:  Amp Fiddler
+Time:  6:00 PM.1  Band:  Travel
 Time:  6:30 PM.1  Band:  SK Simeon
-Time:  7:00 PM.1  Band:  Four TET
-Time:  7:30 PM.1  Band:  The Jesus and Mary Chain
+Time:  7:00 PM.1  Band:  SK Simeon
+Time:  7:30 PM.1  Band:  Travel
 Time:  8:00 PM.1  Band:  The Jesus and Mary Chain
 Time:  8:30 PM.1  Band:  The Jesus and Mary Chain
-Time:  9:00 PM.1  Band:  Happy Mondays
+Time:  9:00 PM.1  Band:  The Jesus and Mary Chain
 Time:  9:30 PM.1  Band:  Travel
 Time:  10:00 PM.1  Band:  Khruangbin
-Time:  10:30 PM.1  Band:  Confidence Man
-Time:  11:00 PM.1  Band:  Danny Krivit
-Time:  11:30 PM.1  Band:  Danny Krivit
+Time:  10:30 PM.1  Band:  Khruangbin
+Time:  11:00 PM.1  Band:  Travel
+Time:  11:30 PM.1  Band:  Travel
 Time:  12:00 AM.1  Band:  Danny Krivit
 Time:  12:30 AM.1  Band:  Danny Krivit
 Time:  1:00 AM.1  Band:  Danny Krivit
-Time:  1:30 AM.1  Band:  DJ Harvey
-Time:  2:00 AM.1  Band:  DJ Harvey
+Time:  1:30 AM.1  Band:  Danny Krivit
+Time:  2:00 AM.1  Band:  Travel
 Time:  2:30 AM.1  Band:  DJ Harvey
 Time:  3:00 AM.1  Band:  DJ Harvey
 Time:  3:30 AM.1  Band:  DJ Harvey
 Time:  4:00 AM.1  Band:  DJ Harvey
-Time:  4:30 AM.1  Band:  Millu & Pjenne
-Time:  5:00 AM  Band:  Millu & Pjenne
+Time:  4:30 AM.1  Band:  DJ Harvey
+Time:  5:00 AM  Band:  Travel
 Time:  5:30 AM  Band:  Millu & Pjenne
 Time:  6:00 AM  Band:  Millu & Pjenne
 Time:  6:30 AM  Band:  Millu & Pjenne
-Time to Process:  4.14099979401
-Solution Score:  66.69557774199998
+Time to Process:  1.46000003815
+Solution Score:  19.705900480000004

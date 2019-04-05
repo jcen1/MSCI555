@@ -3,7 +3,7 @@ Time:  12:30  Band:  DMM
 Time:  12:40  Band:  DMM
 Time:  12:50  Band:  DMM
 Time:  13:00  Band:  DMM
-Time:  13:10  Band:  JustPudge
+Time:  13:10  Band:  Breaks
 Time:  13:20  Band:  JustPudge
 Time:  13:30  Band:  JustPudge
 Time:  13:40  Band:  JustPudge
@@ -16,21 +16,21 @@ Time:  14:40  Band:  Moses Sumney
 Time:  14:50  Band:  Moses Sumney
 Time:  15:00  Band:  Moses Sumney
 Time:  15:10  Band:  Moses Sumney
-Time:  15:20  Band:  Los Angeles Azules
+Time:  15:20  Band:  Travel
 Time:  15:30  Band:  Los Angeles Azules
 Time:  15:40  Band:  Travel
 Time:  15:50  Band:  Travel
 Time:  16:00  Band:  Skip Markley
 Time:  16:10  Band:  Travel
 Time:  16:20  Band:  PVRIS
-Time:  16:30  Band:  Tank and the Bangas
+Time:  16:30  Band:  Travel
 Time:  16:40  Band:  Tank and the Bangas
 Time:  16:50  Band:  Tank and the Bangas
 Time:  17:00  Band:  Tank and the Bangas
 Time:  17:10  Band:  Tank and the Bangas
 Time:  17:20  Band:  Tank and the Bangas
 Time:  17:30  Band:  Tank and the Bangas
-Time:  17:40  Band:  Neighbourhood
+Time:  17:40  Band:  Travel
 Time:  17:50  Band:  Neighbourhood
 Time:  18:00  Band:  Neighbourhood
 Time:  18:10  Band:  Neighbourhood
@@ -38,6 +38,6 @@ Time:  18:20  Band:  Neighbourhood
 Time:  18:30  Band:  Neighbourhood
 Time:  18:40  Band:  Neighbourhood
 Time:  18:50  Band:  Neighbourhood
-Time:  19:00  Band:  Breaks
-Time to Process:  1.14599990845
-Solution Score:  59.6
+Time:  19:00  Band:  Travel
+Time to Process:  0.524999856949
+Solution Score:  17.1

@@ -28,17 +28,6 @@ numBreaks = 1 #input("Enter the number of breaks per a day: ")
 #print travel
 #print df
 
-#From https://stackoverflow.com/questions/51136283/pandas-insert-empty-row-at-0th-position
-#Add a row of zeros
-#df.loc[len(df)] = 0
-#Shift everything down
-#df = df.shift()
-#Make top row zeros
-#df.loc[0] = 0
-
-
-#print df
-
 #Start Time
 start_time =time.time()
 
@@ -112,6 +101,7 @@ for column in df:
             for index, row in dfTemp.iterrows():
                 ##Consult travel matrix
                 if (index != outputArray[i-1].band):
+                    #print "this", travel.loc[index,outputArray[i-1].band]
                     if (travel.loc[index,outputArray[i-1].band] > 0):
                         #print index
                         #print column
@@ -124,44 +114,25 @@ for column in df:
             ##Select Highest Option
             options['Travel-1'] = [dfTemp.loc[:,'options'].max(), dfTemp.loc[:,'options'].idxmax(),column]
             
-            #reset options column
-            dfTemp['options'] = 0
-            ###Option 3: watch -> travel -> watch###
-            if lookForward > 1:
-                # form https://stackoverflow.com/questions/16476924/how-to-iterate-over-rows-in-a-dataframe-in-pandas
-                for index, row in dfTemp.iterrows():
-                    ##Consult travel matrix
-                    if (index != outputArray[i-1].band):
-                        #set first column to stay value
-                        dfTemp.loc[index, column] = dfTemp.loc[outputArray[i-1].band,column] 
-                        #set second column to travel
-                        #from https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.Index.get_loc.html
-                        #from https://stackoverflow.com/questions/17244049/finding-label-location-in-a-dataframe-index
-                        dfTemp.iloc[dfTemp.index.get_loc(index),1] = 0
-                        #compute option
-                        dfTemp.loc[index, 'options'] = dfTemp.loc[index].sum(axis=0)
-                    else:
-                        dfTemp.loc[index, 'options'] = dfTemp.loc[index].sum(axis=0)
-            ##Select Highest Option
-            options['Travel-2'] = [dfTemp.loc[:,'options'].max(), dfTemp.loc[:,'options'].idxmax(), column]
-
             ##Select Overall Highest Option
             #from https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
             #print options
             #print max(options.iteritems(), key=operator.itemgetter(1))
             if (max(options.iteritems(), key=operator.itemgetter(1))[0] == 'Travel-1'):
                 visualArray[i].band = 'Travel'
+                visualArray[i].weight = 0
+                outputArray[i].weight = 0
             else:
                 visualArray[i].band = max(options.iteritems(), key=operator.itemgetter(1))[1][1]
-            visualArray[i].weight = max(options.iteritems(), key=operator.itemgetter(1))[1][0]
-            visualArray[i].time = max(options.iteritems(), key=operator.itemgetter(1))[1][2]
+                visualArray[i].weight = dfTemp.loc[max(options.iteritems(), key=operator.itemgetter(1))[1][1],column]
+                outputArray[i].weight = dfTemp.loc[max(options.iteritems(), key=operator.itemgetter(1))[1][1],column]
             
+            visualArray[i].time = max(options.iteritems(), key=operator.itemgetter(1))[1][2]
             outputArray[i].band = max(options.iteritems(), key=operator.itemgetter(1))[1][1]
-            outputArray[i].weight = max(options.iteritems(), key=operator.itemgetter(1))[1][0]
             outputArray[i].time = max(options.iteritems(), key=operator.itemgetter(1))[1][2]
             #print "output", outputArray[i]
     except Exception:
-        #traceback.print_exc()
+        traceback.print_exc()
         pass
     i = i + 1
     
@@ -174,6 +145,7 @@ for each in visualArray:
         currentBreaks = currentBreaks + 1
 #increase breaks
 while (currentBreaks < numBreaks):
+    #from https://stackoverflow.com/questions/6085467/python-min-function-with-a-list-of-objects
     min_weight = min(visualArray,key=attrgetter('weight'))
     if (min_weight.band != 'Breaks' or 'Travel'):
         min_weight.band = 'Breaks'
@@ -181,10 +153,16 @@ while (currentBreaks < numBreaks):
         currentBreaks=currentBreaks + 1
     
 # output results
+
+##Schedule
+print "Festival:", csv
+score = 0
+for column in visualArray:
+    #print column.band, column.time, column.weight
+    print "Time: ", column.time, " Band: ", column.band
+    score = score + column.weight
 ##Time
 timeprocessed = time.time() - start_time
 print "Time to Process: ", timeprocessed
-##Schedule
-for column in visualArray:
-    print "Time: ", column.time, " Band: ", column.band
-
+##Solution Score
+print "Solution Score: ", score
