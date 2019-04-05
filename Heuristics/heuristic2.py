@@ -5,12 +5,12 @@ import operator
 from operator import attrgetter
 import traceback
 
-csv = 'GoldenPlainsThirteenSat' #raw_input("Enter the name of the file to import: ")
+csv = 'TreefortMusicWed' #raw_input("Enter the name of the file to import: ")
 df = pd.DataFrame()
 #import csv of weights
 df = pd.read_csv('{}.csv'.format(csv), index_col=0)
 
-csv_two = 'GoldenPlainsThirteenSat-travel' #raw_input("Enter the name of the file to import (travel times): ")
+csv_two = 'TreefortMusicFri0-travel' #raw_input("Enter the name of the file to import (travel times): ")
 travel = pd.DataFrame()
 #import csv of travel
 travel = pd.read_csv('{}.csv'.format(csv_two), index_col=0)
@@ -100,7 +100,7 @@ for column in df:
             ###Option 2: travel -> watch -> watch -> watch###
             for index, row in dfTemp.iterrows():
                 ##Consult travel matrix
-                if (index != outputArray[i-1].band):
+                if (index != outputArray[i-1].band) :
                     #print "this", travel.loc[index,outputArray[i-1].band]
                     if (travel.loc[index,outputArray[i-1].band] > 0):
                         #print index
@@ -118,7 +118,7 @@ for column in df:
             #from https://stackoverflow.com/questions/268272/getting-key-with-maximum-value-in-dictionary
             #print options
             #print max(options.iteritems(), key=operator.itemgetter(1))
-            if (max(options.iteritems(), key=operator.itemgetter(1))[0] == 'Travel-1'):
+            if ((max(options.iteritems(), key=operator.itemgetter(1))[0] == 'Travel-1') and (travel.loc[outputArray[i-1].band,max(options.iteritems(), key=operator.itemgetter(1))[1][1]])):
                 visualArray[i].band = 'Travel'
                 visualArray[i].weight = 0
                 outputArray[i].weight = 0

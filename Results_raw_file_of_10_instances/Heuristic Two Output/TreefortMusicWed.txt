@@ -2,19 +2,19 @@ Festival: TreefortMusicWed
 Time:  5:30 PM  Band:  Breaks
 Time:  6:00 PM  Band:  Lucid Aisle
 Time:  6:30 PM  Band:  Lucid Aisle
-Time:  7:00 PM  Band:  Lucid Aisle
-Time:  7:30 PM  Band:  Travel
+Time:  7:00 PM  Band:  Llyod and Saviour
+Time:  7:30 PM  Band:  Mains and Monitors
 Time:  8:00 PM  Band:  Mains and Monitors
-Time:  8:30 PM  Band:  Billy Moon
-Time:  9:00 PM  Band:  Billy Moon
-Time:  9:30 PM  Band:  Whiskey Sasquatch
-Time:  10:00 PM  Band:  Jacq Maliq
-Time:  10:30 PM  Band:  Travel
-Time:  11:00 PM  Band:  Wildermiss
+Time:  8:30 PM  Band:  Travel
+Time:  9:00 PM  Band:  Frankie
+Time:  9:30 PM  Band:  Travel
+Time:  10:00 PM  Band:  Whiskey Sasquatch
+Time:  10:30 PM  Band:  Bloods
+Time:  11:00 PM  Band:  Bloods
 Time:  11:30 PM  Band:  Wildermiss
-Time:  12:00 AM  Band:  Why Bonnie
-Time:  12:30 AM  Band:  Travel
-Time:  1:00 AM  Band:  Breaks
+Time:  12:00 AM  Band:  Ana Lete
+Time:  12:30 AM  Band:  Bibi McGill
+Time:  1:00 AM  Band:  Bibi McGill
 Time:  1:30 AM  Band:  Breaks
-Time to Process:  1.53500008583
-Solution Score:  26.177871914999997
+Time to Process:  0.736000061035
+Solution Score:  7.176903899000001

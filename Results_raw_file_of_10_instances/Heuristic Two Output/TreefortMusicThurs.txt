@@ -1,25 +1,25 @@
 Festival: TreefortMusicThurs
-Time:  3:00 PM  Band:  Breaks
-Time:  3:30 PM  Band:  Travel
+Time:  3:00 PM  Band:  Future of Music
+Time:  3:30 PM  Band:  Breaks
 Time:  4:00 PM  Band:  Liz Cooper & the Stampede
 Time:  4:30 PM  Band:  Liz Cooper & the Stampede
-Time:  5:00 PM  Band:  Moon Palace
-Time:  5:30 PM  Band:  Travel
+Time:  5:00 PM  Band:  LarsLuna
+Time:  5:30 PM  Band:  Tispur
 Time:  6:00 PM  Band:  Moon Palace
 Time:  6:30 PM  Band:  Travel
 Time:  7:00 PM  Band:  And And
-Time:  7:30 PM  Band:  Burl Haggard
+Time:  7:30 PM  Band:  Motherhood
 Time:  8:00 PM  Band:  Travel
 Time:  8:30 PM  Band:  Rosie Tucker
-Time:  9:00 PM  Band:  Sparatik
-Time:  9:30 PM  Band:  Travel
+Time:  9:00 PM  Band:  Styles in Black
+Time:  9:30 PM  Band:  Mostly Muff
 Time:  10:00 PM  Band:  Mostly Muff
-Time:  10:30 PM  Band:  Small Million
-Time:  11:00 PM  Band:  Travel
-Time:  11:30 PM  Band:  Juice
-Time:  12:00 AM  Band:  Travel
-Time:  12:30 AM  Band:  Deeveaux
+Time:  10:30 PM  Band:  Sheep Bridge Jumpers
+Time:  11:00 PM  Band:  Sheep Bridge Jumpers
+Time:  11:30 PM  Band:  Travel
+Time:  12:00 AM  Band:  Hillstomp
+Time:  12:30 AM  Band:  Travel
 Time:  1:00 AM  Band:  The Love Bunch
 Time:  1:30 AM  Band:  The Love Bunch
-Time to Process:  3.34300017357
-Solution Score:  42.825343669000006
+Time to Process:  1.49000000954
+Solution Score:  10.181254354

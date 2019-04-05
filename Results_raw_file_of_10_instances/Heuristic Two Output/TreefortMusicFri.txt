@@ -1,28 +1,28 @@
-Festival: TreefortMusicFri
-Time:  2:00 PM  Band:  Breaks
-Time:  2:30 PM  Band:  Travel
-Time:  3:00 PM  Band:  LarsLuna
-Time:  3:30 PM  Band:  LarsLuna
-Time:  4:00 PM  Band:  LarsLuna
-Time:  4:30 PM  Band:  The Suffers
-Time:  5:00 PM  Band:  Travel
-Time:  5:30 PM  Band:  Wild Spells
-Time:  6:00 PM  Band:  Travel
-Time:  6:30 PM  Band:  Childspeak
-Time:  7:00 PM  Band:  Childspeak
-Time:  7:30 PM  Band:  Travel
-Time:  8:00 PM  Band:  Cosmonautical
-Time:  8:30 PM  Band:  Travel
-Time:  9:00 PM  Band:  Laura Veirs
-Time:  9:30 PM  Band:  Travel
-Time:  10:00 PM  Band:  Bibi McGill
-Time:  10:30 PM  Band:  Frim Fram 4
-Time:  11:00 PM  Band:  Frim Fram 4
-Time:  11:30 PM  Band:  Frim Fram 4
-Time:  12:00 AM  Band:  Frim Fram 4
-Time:  12:30 AM  Band:  Travel
-Time:  1:00 AM  Band:  Hillstomp
-Time:  1:30 AM  Band:  Anemone
-Time:  2:00 AM  Band:  Anemone
-Time to Process:  4.26899981499
-Solution Score:  44.746961228
+Festival TreefortMusicFri
+Time  200 PM  Band  Future of Music
+Time  230 PM  Band  Breaks
+Time  300 PM  Band  Liz Cooper & the Stampede
+Time  330 PM  Band  LarsLuna
+Time  400 PM  Band  LarsLuna
+Time  430 PM  Band  LarsLuna
+Time  500 PM  Band  Travel
+Time  530 PM  Band  Wild Spells
+Time  600 PM  Band  Dolphin Midwives
+Time  630 PM  Band  Frankie
+Time  700 PM  Band  Travel
+Time  730 PM  Band  Audio Moonshine
+Time  800 PM  Band  Travel
+Time  830 PM  Band  K
+Time  900 PM  Band  Laura Veirs
+Time  930 PM  Band  Wildermiss
+Time  1000 PM  Band  Bibi McGill
+Time  1030 PM  Band  Bibi McGill
+Time  1100 PM  Band  Chame & OG
+Time  1130 PM  Band  Delta Mud
+Time  1200 AM  Band  Vertical Scratchers
+Time  1230 AM  Band  Hillstomp
+Time  100 AM  Band  Hillstomp
+Time  130 AM  Band  Anemone
+Time  200 AM  Band  Travel
+Time to Process  1.76999998093
+Solution Score  12.022816795

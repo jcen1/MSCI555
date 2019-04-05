@@ -1,28 +1,28 @@
 Festival: TreefortMusicSun
-Time:  2:00 PM  Band:  Breaks
-Time:  2:30 PM  Band:  Travel
-Time:  3:00 PM  Band:  Travel
-Time:  3:30 PM  Band:  Moon Palace
-Time:  4:00 PM  Band:  Moon Palace
-Time:  4:30 PM  Band:  Furit & Flowers
-Time:  5:00 PM  Band:  Travel
-Time:  5:30 PM  Band:  Swarm Beating
+Time:  2:00 PM  Band:  Future of Music
+Time:  2:30 PM  Band:  Liz Cooper & the Stampede
+Time:  3:00 PM  Band:  Breaks
+Time:  3:30 PM  Band:  Travel
+Time:  4:00 PM  Band:  Travel
+Time:  4:30 PM  Band:  Moon Palace
+Time:  5:00 PM  Band:  Dolphin Midwives
+Time:  5:30 PM  Band:  Travel
 Time:  6:00 PM  Band:  Travel
-Time:  6:30 PM  Band:  Travel
-Time:  7:00 PM  Band:  Cumulus
+Time:  6:30 PM  Band:  Boise
+Time:  7:00 PM  Band:  Travel
 Time:  7:30 PM  Band:  Travel
-Time:  8:00 PM  Band:  Travel
-Time:  8:30 PM  Band:  Travel
-Time:  9:00 PM  Band:  Ekali
-Time:  9:30 PM  Band:  Travel
-Time:  10:00 PM  Band:  Jack Burton
-Time:  10:30 PM  Band:  Travel
+Time:  8:00 PM  Band:  Cumulus
+Time:  8:30 PM  Band:  Aan
+Time:  9:00 PM  Band:  Aan
+Time:  9:30 PM  Band:  Whitney Ballen
+Time:  10:00 PM  Band:  Travel
+Time:  10:30 PM  Band:  Dentist
 Time:  11:00 PM  Band:  Travel
-Time:  11:30 PM  Band:  Hillstomp
+Time:  11:30 PM  Band:  All Star Opera
 Time:  12:00 AM  Band:  Travel
-Time:  12:30 AM  Band:  Anemone
-Time:  1:00 AM  Band:  Travel
-Time:  1:30 AM  Band:  The Brents
-Time:  2:00 AM  Band:  The Brents
-Time to Process:  5.37000012398
-Solution Score:  44.343771933
+Time:  12:30 AM  Band:  Lee Corey Oswald
+Time:  1:00 AM  Band:  Lonesome Jetboat Ramblers
+Time:  1:30 AM  Band:  Lonesome Jetboat Ramblers
+Time:  2:00 AM  Band:  Lonesome Jetboat Ramblers
+Time to Process:  2.12999987602
+Solution Score:  10.665530892000001
