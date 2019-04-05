@@ -1,0 +1,28 @@
+Festival: TreefortMusicFri
+Time:  2:00 PM  Band:  SunBathe
+Time:  2:30 PM  Band:  SunBathe
+Time:  3:00 PM  Band:  Lucid Aisle
+Time:  3:30 PM  Band:  Lucid Aisle
+Time:  4:00 PM  Band:  Sportscourt
+Time:  4:30 PM  Band:  Sportscourt
+Time:  5:00 PM  Band:  Sportscourt
+Time:  5:30 PM  Band:  Tispur
+Time:  6:00 PM  Band:  Mains and Monitors
+Time:  6:30 PM  Band:  And And
+Time:  7:00 PM  Band:  Swarm Beating
+Time:  7:30 PM  Band:  Whiskey Sasquatch
+Time:  8:00 PM  Band:  Billy Moon
+Time:  8:30 PM  Band:  Boise
+Time:  9:00 PM  Band:  Spirit Award
+Time:  9:30 PM  Band:  Rosie Tucker
+Time:  10:00 PM  Band:  Balms
+Time:  10:30 PM  Band:  Bibi McGill
+Time:  11:00 PM  Band:  Why Bonnie
+Time:  11:30 PM  Band:  Knuckle Pups
+Time:  12:00 AM  Band:  Sparatik
+Time:  12:30 AM  Band:  Madge
+Time:  1:00 AM  Band:  Axiom Tha Wyze
+Time:  1:30 AM  Band:  Effy K
+Time:  2:00 AM  Band:  Hillstomp
+Time to Process:  0.0090000629425
+Solution Score:  20.938809395999996

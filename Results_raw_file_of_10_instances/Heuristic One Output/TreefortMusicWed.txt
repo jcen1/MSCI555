@@ -1,0 +1,20 @@
+Festival: TreefortMusicWed
+Time:  5:30 PM  Band:  Future of Music
+Time:  6:00 PM  Band:  Future of Music
+Time:  6:30 PM  Band:  SunBathe
+Time:  7:00 PM  Band:  Llyod and Saviour
+Time:  7:30 PM  Band:  Llyod and Saviour
+Time:  8:00 PM  Band:  Wild Spells
+Time:  8:30 PM  Band:  The Undercover Dream Lovers
+Time:  9:00 PM  Band:  Mertle
+Time:  9:30 PM  Band:  Childspeak
+Time:  10:00 PM  Band:  Childspeak
+Time:  10:30 PM  Band:  Audio Moonshine
+Time:  11:00 PM  Band:  Motherhood
+Time:  11:30 PM  Band:  Karen Meat
+Time:  12:00 AM  Band:  1788-L
+Time:  12:30 AM  Band:  Bitch'n
+Time:  1:00 AM  Band:  Why Bonnie
+Time:  1:30 AM  Band:  56
+Time to Process:  0.00699996948242
+Solution Score:  13.258766847

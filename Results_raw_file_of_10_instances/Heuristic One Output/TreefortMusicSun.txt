@@ -1,0 +1,28 @@
+Festival: TreefortMusicSun
+Time:  2:00 PM  Band:  SunBathe
+Time:  2:30 PM  Band:  Lucid Aisle
+Time:  3:00 PM  Band:  Naked Giants
+Time:  3:30 PM  Band:  Sportscourt
+Time:  4:00 PM  Band:  Sportscourt
+Time:  4:30 PM  Band:  Wild Spells
+Time:  5:00 PM  Band:  Pinky Pinky
+Time:  5:30 PM  Band:  And And
+Time:  6:00 PM  Band:  Swarm Beating
+Time:  6:30 PM  Band:  Childspeak
+Time:  7:00 PM  Band:  Cosmonautical
+Time:  7:30 PM  Band:  Laura Veirs
+Time:  8:00 PM  Band:  Bibi McGill
+Time:  8:30 PM  Band:  Chame & OG
+Time:  9:00 PM  Band:  Chame & OG
+Time:  9:30 PM  Band:  Chame & OG
+Time:  10:00 PM  Band:  Frim Fram 4
+Time:  10:30 PM  Band:  Deuce Parks
+Time:  11:00 PM  Band:  Deuce Parks
+Time:  11:30 PM  Band:  Mike Krol
+Time:  12:00 AM  Band:  Cherry Glazerr
+Time:  12:30 AM  Band:  Effy K
+Time:  1:00 AM  Band:  Jared Mees
+Time:  1:30 AM  Band:  Juice
+Time:  2:00 AM  Band:  116
+Time to Process:  0.00699996948242
+Solution Score:  21.746260375000006

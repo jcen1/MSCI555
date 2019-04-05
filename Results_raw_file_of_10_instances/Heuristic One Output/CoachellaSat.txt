@@ -1,0 +1,81 @@
+Festival: Sat_COACHELLA
+Time:  11:00 AM  Band:  Beyonce
+Time:  11:10 AM  Band:  Beyonce
+Time:  11:20 AM  Band:  Beyonce
+Time:  11:30 AM  Band:  Beyonce
+Time:  11:40 AM  Band:  Beyonce
+Time:  11:50 AM  Band:  Beyonce
+Time:  12:00 PM  Band:  Hundred Waters
+Time:  12:10 PM  Band:  Hundred Waters
+Time:  12:20 PM  Band:  X Japan
+Time:  12:30 PM  Band:  Hundred Waters
+Time:  12:40 PM  Band:  X Japan
+Time:  12:50 PM  Band:  Post Malone
+Time:  1:00 PM  Band:  Birdtastique
+Time:  1:10 PM  Band:  Post Malone
+Time:  1:20 PM  Band:  Post Malone
+Time:  1:30 PM  Band:  Jim Smith
+Time:  1:40 PM  Band:  Highly Suspect Tom Misch
+Time:  1:50 PM  Band:  Highly Suspect Tom Misch
+Time:  2:00 PM  Band:  Bane's World
+Time:  2:10 PM  Band:  Salami Rose Joe Lewis
+Time:  2:20 PM  Band:  Bane's World
+Time:  2:30 PM  Band:  64
+Time:  2:40 PM  Band:  64
+Time:  2:50 PM  Band:  64
+Time:  3:00 PM  Band:  Chloe x Halle
+Time:  3:10 PM  Band:  Sudan Archives
+Time:  3:20 PM  Band:  Sudan Archives
+Time:  3:30 PM  Band:  Sir Sly
+Time:  3:40 PM  Band:  Declan McKenna
+Time:  3:50 PM  Band:  Sir Sly
+Time:  4:00 PM  Band:  Declan McKenna
+Time:  4:10 PM  Band:  Big Thief
+Time:  4:20 PM  Band:  Declan McKenna
+Time:  4:30 PM  Band:  Jason Bentley
+Time:  4:40 PM  Band:  Mild High Club
+Time:  4:50 PM  Band:  Django Django
+Time:  5:00 PM  Band:  Django Django
+Time:  5:10 PM  Band:  Marian Hill
+Time:  5:20 PM  Band:  Nile Rodgers & Chic
+Time:  5:30 PM  Band:  R.O.C.
+Time:  5:40 PM  Band:  R.O.C.
+Time:  5:50 PM  Band:  Sirgrid
+Time:  6:00 PM  Band:  Yaeji
+Time:  6:10 PM  Band:  Yaeji
+Time:  6:20 PM  Band:  Flatbrush Zombies
+Time:  6:30 PM  Band:  Priests
+Time:  6:40 PM  Band:  Angel Olsen
+Time:  6:50 PM  Band:  Yaeji
+Time:  7:00 PM  Band:  Priests
+Time:  7:10 PM  Band:  Chromeo
+Time:  7:20 PM  Band:  Borns
+Time:  7:30 PM  Band:  Jackmaster
+Time:  7:40 PM  Band:  Borns
+Time:  7:50 PM  Band:  Borns
+Time:  8:00 PM  Band:  Cherry Glazerr
+Time:  8:10 PM  Band:  MO
+Time:  8:20 PM  Band:  Alina baraz
+Time:  8:30 PM  Band:  Tash Sultana
+Time:  8:40 PM  Band:  David Byrne
+Time:  8:50 PM  Band:  Bedouin
+Time:  9:00 PM  Band:  Tash Sultana
+Time:  9:10 PM  Band:  Tash Sultana
+Time:  9:20 PM  Band:  The Bronx
+Time:  9:30 PM  Band:  Bejamin booker
+Time:  9:40 PM  Band:  Bejamin booker
+Time:  9:50 PM  Band:  Pachanga Boys
+Time:  10:00 PM  Band:  Pachanga Boys
+Time:  10:10 PM  Band:  Jorja Smith
+Time:  10:20 PM  Band:  Pachanga Boys
+Time:  10:30 PM  Band:  Fleet Foxes
+Time:  10:40 PM  Band:  Jorja Smith
+Time:  10:50 PM  Band:  HAIM
+Time:  11:00 PM  Band:  HAIM
+Time:  11:10 PM  Band:  Jungle
+Time:  11:20 PM  Band:  Jungle
+Time:  11:30 PM  Band:  Jungle
+Time:  11:40 PM  Band:  HAIM
+Time:  11:50 PM  Band:  Jungle
+Time to Process:  0.0230000019073
+Solution Score:  58.00338083299999

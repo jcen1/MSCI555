@@ -1,0 +1,75 @@
+Festival: GoldenPlainsThirteenSat
+Time:  1:30 PM  Band:  Opening
+Time:  2:00 PM  Band:  Opening
+Time:  2:30 PM  Band:  Raw Humps
+Time:  3:00 PM  Band:  Flohio
+Time:  3:30 PM  Band:  Flohio
+Time:  4:00 PM  Band:  Rhye
+Time:  4:30 PM  Band:  Rhye
+Time:  5:00 PM  Band:  Marlon Williams
+Time:  5:30 PM  Band:  Marlon Williams
+Time:  6:00 PM  Band:  Magic Dirt
+Time:  6:30 PM  Band:  Magic Dirt
+Time:  7:00 PM  Band:  Welcome
+Time:  7:30 PM  Band:  Welcome
+Time:  8:00 PM  Band:  Beach House
+Time:  8:30 PM  Band:  Beach House
+Time:  9:00 PM  Band:  Beach House
+Time:  9:30 PM  Band:  Beach House
+Time:  10:00 PM  Band:  Acid Mothers Temple
+Time:  10:30 PM  Band:  Acid Mothers Temple
+Time:  11:00 PM  Band:  Acid Mothers Temple
+Time:  11:30 PM  Band:  The Internet
+Time:  12:00 AM  Band:  The Internet
+Time:  12:30 AM  Band:  Welcome
+Time:  1:00 AM  Band:  Honey
+Time:  1:30 AM  Band:  Honey
+Time:  2:00 AM  Band:  Horatio Luna
+Time:  2:30 AM  Band:  Horatio Luna
+Time:  3:00 AM  Band:  Welcome
+Time:  3:30 AM  Band:  Hieroglyphic Being
+Time:  4:00 AM  Band:  Hieroglyphic Being
+Time:  4:30 AM  Band:  Hieroglyphic Being
+Time:  10:30 AM  Band:  Gregor
+Time:  11:00 AM  Band:  Welcome
+Time:  11:30 AM  Band:  DRMNGNOW
+Time:  12:00 PM  Band:  DRMNGNOW
+Time:  12:30 PM  Band:  DRMNGNOW
+Time:  1:00 PM  Band:  Hatchie
+Time:  1:30 PM.1  Band:  Welcome
+Time:  2:00 PM.1  Band:  Liz Phair
+Time:  2:30 PM.1  Band:  Liz Phair
+Time:  3:00 PM.1  Band:  Liz Phair
+Time:  3:30 PM.1  Band:  The Living Eyes
+Time:  4:00 PM.1  Band:  Amp Fiddler
+Time:  4:30 PM.1  Band:  Amp Fiddler
+Time:  5:00 PM.1  Band:  SK Simeon
+Time:  5:30 PM.1  Band:  SK Simeon
+Time:  6:00 PM.1  Band:  SK Simeon
+Time:  6:30 PM.1  Band:  Four TET
+Time:  7:00 PM.1  Band:  Four TET
+Time:  7:30 PM.1  Band:  Welcome
+Time:  8:00 PM.1  Band:  Khruangbin
+Time:  8:30 PM.1  Band:  Happy Mondays
+Time:  9:00 PM.1  Band:  Happy Mondays
+Time:  9:30 PM.1  Band:  Happy Mondays
+Time:  10:00 PM.1  Band:  Confidence Man
+Time:  10:30 PM.1  Band:  The Jesus and Mary Chain
+Time:  11:00 PM.1  Band:  Danny Krivit
+Time:  11:30 PM.1  Band:  Danny Krivit
+Time:  12:00 AM.1  Band:  DJ Harvey
+Time:  12:30 AM.1  Band:  DJ Harvey
+Time:  1:00 AM.1  Band:  DJ Harvey
+Time:  1:30 AM.1  Band:  DJ Harvey
+Time:  2:00 AM.1  Band:  Millu & Pjenne
+Time:  2:30 AM.1  Band:  Millu & Pjenne
+Time:  3:00 AM.1  Band:  Millu & Pjenne
+Time:  3:30 AM.1  Band:  Millu & Pjenne
+Time:  4:00 AM.1  Band:  Millu & Pjenne
+Time:  4:30 AM.1  Band:  Millu & Pjenne
+Time:  5:00 AM  Band:  30
+Time:  5:30 AM  Band:  30
+Time:  6:00 AM  Band:  30
+Time:  6:30 AM  Band:  30
+Time to Process:  0.0200002193451
+Solution Score:  27.537148057

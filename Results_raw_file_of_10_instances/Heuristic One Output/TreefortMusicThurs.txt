@@ -1,0 +1,25 @@
+Festival: TreefortMusicThurs
+Time:  3:00 PM  Band:  SunBathe
+Time:  3:30 PM  Band:  SunBathe
+Time:  4:00 PM  Band:  Lucid Aisle
+Time:  4:30 PM  Band:  Lucid Aisle
+Time:  5:00 PM  Band:  LarsLuna
+Time:  5:30 PM  Band:  The Suffers
+Time:  6:00 PM  Band:  Wild Spells
+Time:  6:30 PM  Band:  Teddy and the Rough Riders
+Time:  7:00 PM  Band:  Ivy Wild
+Time:  7:30 PM  Band:  Ivy Wild
+Time:  8:00 PM  Band:  Laura Veirs
+Time:  8:30 PM  Band:  Rosie Tucker
+Time:  9:00 PM  Band:  Laura Veirs
+Time:  9:30 PM  Band:  Aan
+Time:  10:00 PM  Band:  Chris King & the gutterballs
+Time:  10:30 PM  Band:  Sparatik
+Time:  11:00 PM  Band:  All Star Opera
+Time:  11:30 PM  Band:  The Golden Fleece
+Time:  12:00 AM  Band:  The House of Aura
+Time:  12:30 AM  Band:  Deejay Fangy
+Time:  1:00 AM  Band:  Lonesome Jetboat Ramblers
+Time:  1:30 AM  Band:  Lonesome Jetboat Ramblers
+Time to Process:  0.00699996948242
+Solution Score:  19.245192529

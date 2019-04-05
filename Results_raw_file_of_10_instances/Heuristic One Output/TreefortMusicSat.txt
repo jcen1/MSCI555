@@ -1,0 +1,28 @@
+Festival: TreefortMusicSat
+Time:  2:00 PM  Band:  SunBathe
+Time:  2:30 PM  Band:  Liz Cooper & the Stampede
+Time:  3:00 PM  Band:  SunBathe
+Time:  3:30 PM  Band:  Sportscourt
+Time:  4:00 PM  Band:  Tispur
+Time:  4:30 PM  Band:  Moon Palace
+Time:  5:00 PM  Band:  Billy Moon
+Time:  5:30 PM  Band:  Swarm Beating
+Time:  6:00 PM  Band:  Billy Moon
+Time:  6:30 PM  Band:  K
+Time:  7:00 PM  Band:  Whiskey Sasquatch
+Time:  7:30 PM  Band:  Cumulus
+Time:  8:00 PM  Band:  Bibi Mcill
+Time:  8:30 PM  Band:  Styles in Black
+Time:  9:00 PM  Band:  Drug Apts
+Time:  9:30 PM  Band:  Jack Burton
+Time:  10:00 PM  Band:  Axiom Tha Wyze
+Time:  10:30 PM  Band:  Auzomatik
+Time:  11:00 PM  Band:  Sheep Bridge Jumpers
+Time:  11:30 PM  Band:  The Golden Fleece
+Time:  12:00 AM  Band:  Mike Krol
+Time:  12:30 AM  Band:  Spirit Award
+Time:  1:00 AM  Band:  Kastle
+Time:  1:30 AM  Band:  Effy K
+Time:  2:00 AM  Band:  Jared Mees
+Time to Process:  0.00899982452393
+Solution Score:  20.995756597
